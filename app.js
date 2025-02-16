@@ -40,7 +40,7 @@ let arrayAmigos = []
 
 function actualizarArray (nombreIngresado) {
   arrayAmigos.push(nombreIngresado)
-  console.log(arrayAmigos)
+  // console.log(arrayAmigos)
   vaciarListaYactualizar()
   recorrerArrayAmigos()
 }
@@ -58,7 +58,7 @@ function sortearAmigo() {
   if (arrayAmigos.length > 1) {
     let indiceAleatorioAmigo = Math.floor(Math.random()*arrayAmigos.length);
     let amigosorteado = arrayAmigos[indiceAleatorioAmigo]
-    console.log(amigosorteado)
+    // console.log(amigosorteado)
     
     mostrarAmigoElegido(amigosorteado)
   } if (arrayAmigos.length === 1) {
