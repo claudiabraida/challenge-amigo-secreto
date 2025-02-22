@@ -22,4 +22,4 @@ La aplicación contará con las siguientes funcionalidades:
 
 En este proyecto, se aplicaron los conceptos aprendidos de JavaScript y el manejo del DOM para implementar la lógica de la aplicación. El diseño visual y la maquetación del front-end fueron proporcionados por Alura Latam.
 
-Agradezco a Alura Latam y Oracle por la oportunidad de participar en este desafío.💙
+Agradezco a Alura Latam y Oracle por la oportunidad de participar en este desafío.💙!
